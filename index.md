@@ -27,4 +27,4 @@ We host projects and discussion, have a server or two, and if you are
 interested, feel free to contact
 [Pontus Stenetorp](http://pontus.stenetorp.se/contact.html).
 
-In short: We are an non-affiliation affiliation.
+In short: We are a non-affiliation affiliation.
