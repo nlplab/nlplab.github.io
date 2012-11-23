@@ -19,7 +19,7 @@ Something along the lines of what [Jason Eisner][eisner] wrote for his 2012
 ACL candidacy would be great as inspiration.
 
 [sakai]: http://research.microsoft.com/en-us/people/tesakai/
-[eisner]: http://clair.si.umich.edu/aclvote2012/eisner.html
+[eisner]: http://shannon.nlplab.org/~ninjin/share/doc/eisner-acl-election-statement.html
 
 ## Resources ##
 
