@@ -15,10 +15,10 @@ Microsoft Research Asia does not have labs).
 In short: We are a non-affiliation affiliation.
 
 As-of-yet, we are trying to find our way and establish a purpose.
-Something along the lines of what [Jason Eisner][eisner] wrote for his 2012
-ACL candidacy would be great as inspiration.
+Something along the lines of [what Jason Eisner wrote for his 2012
+ACL candidacy][eisner] would be great as inspiration.
 
-[sakai]: http://research.microsoft.com/en-us/people/tesakai/
+[sakai]: http://research.microsoft.com/en-us/labs/asia/whyiworkatmsra/tetsuyasakai.aspx
 [eisner]: http://shannon.nlplab.org/~ninjin/share/doc/eisner-acl-election-statement.html
 
 ## Resources ##
