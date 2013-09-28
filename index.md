@@ -23,7 +23,7 @@ ACL candidacy would be great as inspiration.
 
 ## Resources ##
 
-We have currently have two servers where we host content:
+We currently have two servers where we host content:
 
 * `weaver` hosted at [Linode][linode] in London, United Kingdom
 * `shannon` hosted at [Stacken][stacken] in Stockholm, Sweden
