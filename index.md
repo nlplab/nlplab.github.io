@@ -42,10 +42,12 @@ hosted on its infrastructure:
 * [Word representations][wordreprs], sharing and evaluating word
     representations
 * [brat][brat], a text annotation and visualisation tool
+* [Tools and resources for BioNLP][bio]
 
 If you have an interesting NLP research project of your own that you are
 dedicated to and want to host it somewhere, do get in touch with us.
 
+[bio]: http://bio.nlplab.org/
 [brat]: http://brat.nlplab.org/
 [nersuite]: http://nersuite.nlplab.org/
 [wordreprs]: http://wordreprs.nlplab.org/
