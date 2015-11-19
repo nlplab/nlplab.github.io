@@ -25,7 +25,7 @@
     "FBbt":      "http://purl.obolibrary.org/obo/FBbt_",
     "FBcv":      "http://purl.obolibrary.org/obo/FBcv_",
     "EGID":      "http://www.ncbi.nlm.nih.gov/gene/",
-    "taxonomy":  "http://identifiers.org/taxonomy/",
+    "taxonomy":  "http://www.ncbi.nlm.nih.gov/taxonomy/",
     "stringdb":  "http://string-db.org/interactions/",
     "stitchdb":  "http://stitchdb-db.org/interactions/"
   }
