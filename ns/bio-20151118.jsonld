@@ -15,6 +15,7 @@
     "FMA":       "http://purl.obolibrary.org/obo/FMA_",
     "IAO":       "http://purl.obolibrary.org/obo/IAO_",
     "UBERON":    "http://purl.obolibrary.org/obo/UBERON_",
+    "EGID":      "http://www.ncbi.nlm.nih.gov/gene/",
     "taxonomy":  "http://www.ncbi.nlm.nih.gov/taxonomy/",
     "stringdb":  "http://string-db.org/interactions/",
     "stitchdb":  "http://stitchdb-db.org/interactions/"
