@@ -2,6 +2,10 @@
     <head>
         <!-- utf-8 is reasonably nice, let's use that for our homepage -->
         <meta charset="utf-8"/>
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <meta name="viewport" content="width=device-width">
+        <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="css/skeleton.css">
         <title>
             {{ page.title }} - NLPLab Homepage
         </title>
@@ -11,6 +15,10 @@
         <meta name="google-site-verification" content="YJkZhvWcgZNvVX2HY3TXG1OcEWJHMy7Bi_ossuqKvRE"/>
     </head>
     <body>
-        {{ content }}
+        <div class="container">
+            <div class="row">
+             {{ content }}
+            </div>
+        </div>
     </body>
 </html>
